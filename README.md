@@ -13,6 +13,9 @@ Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti ber
 
 ## Javascrip Dasar
 Pemakaian Alert sebagai property window.
-![Lab5Web](Img/G3.png.png)
-Pemakaian Alert sebagai property window
+![Lab5Web](Img/G3.png)
+pemakaian method dalam objek
 ![Lab5Web](Img/G4.png)
+pemakaian prompt
+![Lab5Web](Img/G5.png)
+![Leb5Web](Img/G6.png)
